@@ -180,5 +180,5 @@ Each map value supports the corresponding options documented by the
 Run the module's mocked OpenTofu tests from the module directory:
 
 ```sh
-./tests/test.sh
+source ./tests/test.sh
 ```
